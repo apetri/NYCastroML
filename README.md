@@ -112,18 +112,20 @@ _NYCastroML coordinators are:_
 
 - Hack Chapter 8
 
-## May 20
+## May 23 - All Day Hackathon
 
 - Present Chapter 9
+- Hack!
+- Pizza!
+- Hack!
+- Drink!
 
-## May 27
-
-- Hack Chapter 9
-
-## June 3
+## June 6 - All Day Hackathon
 
 - Present Chapter 10
+  - Peek: Sections 10.1 -- 10.2
+  - DF-M: Section 10.3
+  - Corrales: 10.4 -- 10.6 
 
-## June 10
-
-- Hack Chapter 10
+- Group Discussion: Do the Right Thing?
+- Hack
